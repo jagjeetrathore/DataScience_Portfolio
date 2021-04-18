@@ -3,6 +3,7 @@
 ## [Clustering(CustomerSegmenation):](https://github.com/jagjeetrathore/E-Commerce-System)
 #### Objective:(Predict Customer Life Time Value- CLTV)
 objective is to build a machine learning model to predict the customer Lifetime Value (LTV), a metric that indicates the total revenue a business can reasonably expect from a single customer account. LTV is often considered the “Golden Metric” for online retailers, as it helps predict future revenue and measures long-term business success.
+
 ![RFM_LTV Correlation] (https://github.com/jagjeetrathore/Jagjeet_Portfolio/blob/master/images/RFM_LTV.png)
 ## [Classification:](https://github.com/jagjeetrathore/USaccidents)
 #### Objective:(Factors for US Accidents)
