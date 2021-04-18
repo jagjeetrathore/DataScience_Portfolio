@@ -1,1 +1,1 @@
-# HandwrittenImages
+# Data Science Projects
